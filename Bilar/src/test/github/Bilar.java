@@ -9,6 +9,8 @@ public class Bilar {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Yeeeaahhh, You Rock");
+		
+		System.out.println("Fan heller!");
 
 	}
 
